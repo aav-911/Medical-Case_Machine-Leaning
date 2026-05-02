@@ -1,4 +1,4 @@
-# The Quality of Hospital Care | CSIS 344
+# The Severity of each Condition | CSIS 344
 
 ## Inpatient Mortality Rate in Hospitals
 Patients with different medical conditions still have risks of death while being 
